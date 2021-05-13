@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body { 
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu-items {
+    font-size: 17px;
+    color:  grey;
+    margin: 0 16px;
+    text-decoration: none;
+    }
+    .menu-items:hover{
+        text-decoration: underline;
+        text-decoration-color: #8071D0 ;
+        color: black;
+        font-weight: bold;
+    }
+.home-title
+{font-size: 17px;
+    margin: 0 16px;
+    text-decoration:underline;
+    text-decoration-color: #8071D0;
+    color:  black;
+    font-weight: bold;
+    }
+   
+.account-tab1 {
+    background-color:  #FFD8DB;
+    border-radius: 20px;
+    padding: 15px 15px;
+    color: #A389CC;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#topbar{ 
+    padding: 35px 48px;
+
+    display:flex;
+    justify-content: space-between;
+    
+    }
+    .step{
+        width: 32%;
+        display: inline-block;
+       margin-left: 100px;
+       
+       
+    }
+    .main-title1{
+        font-size: 80px;
+      margin: 0;
+      font-weight:900;
+      
+    }
+    
+    .para{
+        margin-bottom: 30px;
+        margin-top: 30px;
+
+    }
+    .account-tab2{
+       margin-right: 15px;
+        
+        background-color:  #5243C0;
+        border-radius: 23px;
+        padding: 15px 25px;
+        color: #ffffff;
+        font-size: 15px;
+        text-decoration: none;
+    }
+    
+    .step2{
+        display: flex;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+    }
+    .book{
+        margin-top: 90px;
+    }
+    
+    .arow{
+        padding:0px 10px;
+    }
+    .top-logo{
+        width:130px;
+        height: 55px;
+    }
+    .landing-logo{
+        width: 700px;
+        height: 600px;
+        margin 0;
+    }
+    
+    .card{
+        border-radius: 12px;
+        background-color: rgb(252, 248, 248);
+        display: flex;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        justify-content:space-evenly;
+    }
+    .card:hover{
+        background-color: white;
+       
+    }
+    
+ .text{ font-size: 17px;
+    text-decoration: none;
+    color: black;
+    padding: 15px 20px;
+    font-weight: bold;
+   
+
+ }
+ .text2{
+    font-size: 17px;
+    text-decoration: none;
+    color:gray;
+    padding: 15px 15px;
+    
+ }
+ .tube{
+    background-color:  #FED7DA;
+    padding: 0px 1px 0px 1px;
+    font-size: 6px;
+    color: #FED7DA;
+    border-radius: 6px;
+    margin: 20px 0px 20px 0px;}
+    
+    .card2{border-radius: 12px;
+        background-color: rgb(252, 248, 248);
+        display: flex;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        justify-content:space-evenly;
+     
+}
+.card2:hover{
+    background-color: white;
+   
+    
+}
+
+.tubea{
+    background-color:  #FD6534;
+        padding: 0px 1px 0px 1px;
+        font-size: 6px;
+        color: #FD6534;
+        border-radius: 6px;
+        margin: 20px 0px 20px 0px;
+}
+.tubeb{
+    background-color:  #9ED095;
+        padding: 0px 1px 0px 1px;
+        font-size: 6px;
+        color: #9ED095;
+        border-radius: 6px;
+        margin: 20px 0px 20px 0px;
+}
+.tubec{
+    background-color:  #FFE4A0;
+        padding: 0px 1px 0px 1px;
+        font-size: 6px;
+        color: #FFE4A0;
+        border-radius: 6px;
+        margin: 20px 0px 20px 0px;
+}
+.texta{ font-size: 16px;
+    text-decoration: none;
+    color: black;
+    padding: 15px 10px;
+    font-weight: bold;
+
+}
+.textb{
+    font-size: 17px;
+    text-decoration: none;
+    color:gray;
+    padding: 15px 15px;
+}
+
+.textaa{ font-size: 17px;
+    text-decoration: none;
+    color: black;
+    padding: 15px 15px;
+    font-weight: bold;
+   
+}
+.add{
+    font-size: 17px;
+    text-decoration: none;
+    color: rgb(252, 248, 248);
+    
+}
+.add:hover{
+    color:white;
+}
+.textaaa{
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+    padding: 15px 15px;
+    text-align: left;
+    margin-left:0;
+    font-weight: bold;
+}
+.add1{
+    font-size: 17px;
+    text-decoration: none;
+    color: rgb(252, 248, 248);
+    
+}
+.add1:hover{
+    color:white;
+}
+ .mark{
+     padding: 7px 7px;
+ }
+ .step{
+     width: 30%;
+     display: inline-block;
+ }
